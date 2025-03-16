@@ -1,0 +1,10 @@
+feedparser
+torch
+clip
+numpy
+requests
+praw
+beautifulsoup4
+pandas
+gradio
+python-dotenv
